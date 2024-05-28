@@ -1,0 +1,8 @@
+players: 2
+boardSize: 10
+snakes: 9
+ladders: 8
+crocodiles: 4
+mines: 4
+dies: 1
+ms: "SUM"
